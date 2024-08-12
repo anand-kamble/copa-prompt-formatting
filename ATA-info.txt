@@ -1,0 +1,479 @@
+Aircraft ATA Chapters List
+
+00 Introduction / Aircraft General
+  00 General
+  01-04 Operations Information (Reserved for Airline Use)
+  05 Periodic Inspections
+    00 General
+    10 Time Limits
+    20 Scheduled Maintenance Checks
+    30 [As Required]
+    40 [As Required]
+    50 Unscheduled Maintenance Checks
+  06 Dimensions and Areas
+  07 Lifting & Shoring
+    00 General
+    10 Jacking
+    20 Shoring
+  08 Leveling & Weighing
+    00 General
+    10 Weighing & Balancing
+    20 Leveling
+  09 Towing & Taxiing
+    00 General
+    10 Towing
+    20 Taxiing
+  10 Parking, Mooring, Storage & Return To Service
+    00 General
+    10 Parking / Storage
+    20 Mooring
+    30 Return To Service
+  11 Placards & Markings
+    00 General
+    10 Exterior Colour Schemes & Markings
+    20 Exterior Placards & Markings
+    30 Interior Placards
+  12 Servicing Routine Maintenance
+    00 General
+    10 Replenishing
+    20 Scheduled Servicing
+    30 Unscheduled Servicing
+  13-17 Unassigned (Empty)
+  18 Vibration & Noise Analysis (Helicopter Only)
+    00 General
+    10 Vibration Analysis
+    20 Noise Analysis
+  19 Unassigned (Empty)
+
+Airframe Systems
+  20 Standard Practices-Airframe
+  21 Air Conditioning
+    00 General
+    10 Compression
+    20 Distribution
+    30 Pressurization Control
+    40 Heating
+    50 Cooling
+    60 Temperature Control
+    70 Moisture / Air Contaminant Control
+  22 Auto Flight
+    00 General
+    10 Autopilot
+    20 Speed-Attitude Correction
+    30 Auto Throttle
+    40 System Monitor
+    50 Aerodynamic Load Alleviating
+  23 Communications
+    00 General
+    10 Speech Communications
+    15 SATCOM
+    20 Data Transmission & Automatic Calling
+    30 Passenger Address, Entertainment, & Comfort
+    40 Interphone
+    50 Audio Integrating
+    60 Static Discharging
+    70 Audio & Video Monitoring
+    80 Integrated Automatic Tuning
+  24 Electrical Power
+    00 General
+    10 Generator Drive
+    20 AC Generation
+    30 DC Generation
+    40 External Power
+    50 AC Electrical Load Distribution
+    60 DC Electrical Load Distribution
+    70 Primary & Secondary Power
+  25 Equipment / Furnishings
+    00 General
+    10 Flight Compartment
+    20 Passenger Compartment
+    30 Buffet / Galley
+    40 Lavatories
+    50 Cargo Compartments
+    60 Emergency
+    70 Accessory Compartments
+    80 Insulation
+  26 Fire Protection
+    00 General
+    10 Detection
+    20 Extinguishing
+    30 Explosion Suppression
+  27 Flight Controls
+    00 General
+    10 Aileron & Tab
+    20 Rudder & Tab
+    30 Elevator & Tab
+    40 Horizontal Stabilizer / Stabilator
+    50 Flaps
+    60 Spoiler, Drag Devices & Variable Aerodynamic Fairings
+    70 Gust Lock & Damper
+    80 Lift Augmenting
+  28 Fuel
+    00 General
+    10 Storage
+    20 Distribution-Drain Valves
+    30 Dump
+    40 Indicating
+  29 Hydraulic Power
+    00 General
+    10 Main
+    20 Auxiliary
+    30 Indicating
+  30 Ice & Rain Protection
+    00 General
+    10 Airfoil
+    20 Air Intakes
+    30 Pitot & Static
+    40 Windows, Windshields, & Doors
+    50 Antennas & Radomes
+    60 Propellers / Rotors
+    70 Water Lines
+    80 Detection
+  31 Indicating / Recording Systems
+    00 General
+    10 Instrument & Control Panels
+    20 Independent Instruments
+    30 Recorders
+    40 Central Computers
+    50 Central Warning Systems
+    60 Central Display Systems
+    70 Automatic Data Reporting Systems
+  32 Landing Gear
+    00 General
+    10 Main Gear & Doors
+    20 Nose Gear / Tail Gear & Doors
+    30 Extension & Retraction
+    40 Wheels & Brakes
+    50 Steering
+    60 Position & Warning , and Ground Safety Switch
+    70 Supplementary Gear - Skis, Floats
+  33 Lights
+    00 General
+    10 Flight Compartment & Annunciator Panel
+    20 Passenger Compartment
+    30 Cargo & Service Compartments
+    40 Exterior Lighting
+    50 Emergency Lighting
+  34 Navigation
+    00 General
+    10 Flight Environment Data
+    20 Attitude & Direction
+    30 Landing & Taxiing Aids
+    40 Independent Position Determining
+    50 Dependent Position Determining
+    60 Flight Management Computing
+  35 Oxygen
+    00 General
+    10 Crew
+    20 Passenger
+    30 Portable
+  36 Pneumatic
+    00 General
+    10 Distribution
+    20 Indicating
+  37 Vacuum
+    00 General
+    10 Distribution
+    20 Indicating
+  38 Water / Waste
+    00 General
+    10 Potable
+    20 Wash
+    30 Waste Disposal
+    40 Air Supply
+  39 Electrical Electronic Panels & Multipurpose Compts -UNASSIGNED 2006
+    00 General
+    10 Instrument & Control Panels
+    20 Electrical & Electronic Equipment Racks
+    30 Electrical & Electronic Junction Boxes
+    40 Multipurpose Electronic Components
+    50 Integrated Circuits
+    60 Printed Circuit Card Assemblies
+  41 Water Ballast
+    00 General
+    10 Storage
+    20 Dump
+    30 Indication
+  42 Integrated Modular Avionics
+    00 General
+    20 Core System
+    30 Network Components
+  44 Cabin Systems
+    00 General
+    10 Cabin Core System
+    20 Inflight Entertainment System
+    30 External Communication System
+    40 Cabin Mass Memory System
+    50 Cabin Monitoring System
+    60 Miscellaneous Cabin System
+  45 Central Maintenance System (CMS)
+    00 General
+    05/19 CMS / Aircraft General
+    20/44 CMS / Airframe Systems
+    45 Central Maintenance System
+    46/49 CMS / Airframe Systems
+    50/59 CMS / Structures
+    60/69 CMS / Propellers
+    70/89 CMS / Power Plant
+  46 Information Systems
+    00 General
+    10 Airplane General Information Systems
+    20 Flight Deck Information Systems
+    30 Maintenance Information Systems
+    40 Passenger Cabin Information Systems
+    50 Miscellaneous Information Systems
+  47 Inert Gas System
+    00 General
+    10 Generation/Storage
+    20 Distribution
+    30 Control
+    40 Indicating
+  49 Airborne Auxiliary Power
+    00 General
+    10 Power Plant
+    20 Engine
+    30 Engine Fuel & Control
+    40 Ignition / Starting
+    50 Air
+    60 Engine Controls
+    70 Indicating
+    80 Exhaust
+    90 Oil
+
+Structures
+  50 Cargo and Accessory Compartments
+    00 General
+    10 Cargo Compartments 
+    20 Cargo Loading Systems
+    30 Cargo Related Systems
+    40 Unassigned
+    50 Accessory Compartments
+    60 Insulation
+  51 Standard Practices & Structures General
+    00 General
+    10 Investigation, Cleanup & Aerodynamic Smoothness
+    20 Processes
+    30 Materials
+    40 Fasteners
+    50 Support of Airplane for Repair & Alignment Check Procedures
+    60 Control-Surface Balancing
+    70 Repairs
+    80 Electrical Bonding
+  52 Doors
+    00 General
+    10 Passenger / Crew
+    20 Emergency Exit
+    30 Cargo
+    40 Service
+    50 Fixed Interior
+    60 Entrance Stairs
+    70 Monitoring & Operation & Warning
+    80 Landing Gear
+  53 Fuselage
+    00 General (10 through 90 Fuselage Sections)
+    10 Main Frame
+    20 Auxiliary Structure
+    30 Plates-Skin
+    40 Attach Fittings
+    50 Aerodynamic Fairings
+    60 [As Required]
+    70 [As Required] 
+    80 [As Required]
+    90 [As Required]
+  54 Nacelles / Pylons
+    00 General
+    10 Nacelle [As Required]
+    20 Nacelle [As Required]
+    30 Nacelle [As Required]
+    40 Nacelle [As Required]
+    50 Pylon [As Required]
+    60 Pylon [As Required]
+    70 Pylon [As Required]
+    80 Pylon [As Required]
+  55 Stabilizers
+    00 General 
+    10 Horizontal Stabilizer / Stabilator Or Canard
+    20 Elevator
+    30 Vertical Stabilizer
+    40 Rudder
+  56 Windows
+    00 General
+    10 Flight Compartment
+    20 Passenger Compartment
+    30 Door
+    40 Inspection & Observation
+  57 Wings
+    00 General
+    10 Center Wing
+    20 Outer Wing
+    30 Wing Tip
+    40 Leading Edge & Leading Edge Devices
+    50 Trailing Edge & Trailing Edge Devices
+    60 Ailerons & Elevons
+    70 Spoilers
+    80 [As Required]
+    90 Wing Folding System
+    
+Propeller / Rotor
+  60 Standard Practices-Propeller / Rotor
+    00 General
+  61 Propellers / Propulsion
+    00 General
+    10 Propeller Assembly
+    20 Controlling
+    30 Braking
+    40 Indicating
+    50 Propulsor Duct
+  62 Rotors
+    00 General
+    10 Rotor Blades
+    20 Rotor Head(S)
+    30 Rotor Shaft(S) / Swashplate Assembly(Ies)
+    40 Indicating
+  63 Rotor Drive(s)
+    00 General
+    10 Engine / Gearbox Couplings
+    20 Gearbox(es)
+    30 Mounts, Attachments
+    40 Indicating
+  64 Tail Rotor
+    00 General
+    10 Rotor Blades
+    20 Rotor Head
+    30 [Unassigned]
+    40 Indicating
+  65 Tail Rotor Drive
+    00 General
+    10 Shafts
+    20 Gearboxes
+    30 [Unassigned]
+    40 Indicating
+  66 Folding Blades & Tail Pylon
+    00 General
+    10 Rotor Blades
+    20 Tail Pylon
+    30 Controls & Indicating
+  67 Rotors Flight Control
+    00 General
+    10 Rotor Control
+    20 Anti-Torque Rotor Control (Yaw Control)
+    30 Servo-Control System
+    
+Power Plant  
+  70 Standard Practices Engine
+    00 General
+  71 Power Plant General
+    00 General
+    10 Cowling
+    20 Mounts
+    30 Fire seals & Shrouds
+    40 Attach Fittings
+    50 Electrical Harness
+    60 Engine Air Intakes
+    70 Engine Drains
+  72 Engine Turbine/Turboprop, Ducted Fan/Unducted Fan
+    00 General
+    10 Reduction Gear & Shaft (Turboprop &/Or Front Mounted Driven Propulsor)
+    20 Air Inlet Section
+    30 Compressor Section
+    40 Combustion Section 
+    50 Turbine Section
+    60 Accessory Drives
+    70 By-Pass Section
+    80 Propulsor Section (Rear Mounted)
+  72(R) Engine - Reciprocating 
+    00 General
+    10 Front Section
+    20 Power Section
+    30 Cylinder Section
+    40 SuperCharger Section
+    50 Lubrication
+  73 Engine Fuel & Control
+    00 General
+    10 Distribution
+    20 Controlling
+    30 Indicating
+  74 Ignition
+    00 General
+    10 Electrical Power Supply
+    20 Distribution
+    30 Switching
+  75 Air
+    00 General
+    10 Engine Anti-Icing
+    20 Engine Cooling
+    30 Compressor Control
+    40 Indicating
+  76 Engine Controls
+    00 General 
+    10 Power Control
+    20 Emergency Shutdown
+  77 Engine Indicating
+    00 General
+    10 Power
+    20 Temperature
+    30 Analyzers
+    40 Integrated Engine Instrument Systems
+  78 Exhaust
+    00 General
+    10 Collector-Nozzle
+    20 Noise Suppressor
+    30 Thrust Reverser
+    40 Supplemental Air
+  79 Oil
+    00 General
+    10 Storage
+    20 Distribution
+    30 Indicating
+  80 Starting
+    00 General
+    10 Cranking
+  81 Turbines
+    00 General 
+    10 Power Recovery
+    20 Turbo-Supercharger
+  82 Water Injection
+    00 General
+    10 Storage
+    20 Distribution
+    30 Dumping & Purging
+    40 Indicating
+  83 Accessory Gear Boxes
+    00 General
+    10 Drive Shaft Section
+    20 Gear Box Section
+  84 Propulsion Augmentation
+    00 General
+    10 Jet Assist Takeoff
+    
+Others
+  91 Charts
+    00 Charts
+  97 Wiring Reporting
+    00 General
+    01 Zone 100 Fuselage Lower
+    02 Zone 200 Fuselage Top 
+    03 Zone 300 Stabilizers
+    04 Zone 400 Nacelles-Pylons
+    05 Zone 500 Left Wing
+    06 Zone 600 Right Wing
+    07 Zone 700 Landing Gear Compartment
+    08 Zone 800 Doors
+    09 Zone 900 Lavatories & Galleys
+    20 Electrical Standard Items/Practices
+    
+  24-10 Air Conditioning-Compression
+  100 Manufacturers Technical Data (empty)
+  101 Specification For Ground Equipment Technical Data (empty) 
+  102 Computer Software Manual (empty)
+  103 Standarts For Jet Fuel Quality Control At Airports (empty)
+  104 Guidelines For Aircraft Maintenance Training
+    10 Technical Training Servicing
+    20 Technical Training Familization
+    30 Technical Training Maintenance
+  105 Guidelines For Training And Qualifying Personnel In Non Destructive Testing Methods (empty)
+  106 Sources And Approved Parts Qualification Guidelines (empty)
+  115 Flight Simulator Systems (empty)
+  116 Flight Simulator Cuing Systems (empty)
+  117 Wiring Maintenance Practices/Guidelines (empty)
+  300 Packaging of Airline Supplies (empty)
